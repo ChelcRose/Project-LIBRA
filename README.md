@@ -67,8 +67,8 @@ The system supports adding and updating book records, including categories, genr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   cd YOUR-REPOSITORY
+   git clone https://github.com/ChelcRose/Library-Management-System.git
+   cd Library-Management-System
    ```
 
 2. Create a MySQL database:
@@ -110,8 +110,9 @@ Project LIBRA was developed as an academic software-engineering project. Develop
 
 ## Contributors
 
-- Chelsea Rose J. Pimentel — Full-Stack Developer (Backend-Focused)
-- Add other team members and roles here
+- Chelsea Rose Pimentel — Full-Stack Developer 
+- Light Pearl Legaspi - Frontend Developer
+- Hestia Meizi Tibon - Frontend Developer
 
 ## License
 
