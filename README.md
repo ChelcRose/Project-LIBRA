@@ -106,7 +106,7 @@ The system supports adding and updating book records, including categories, genr
 
 ## Project Context
 
-Project LIBRA was developed as an academic software-engineering project. Development involved backend implementation, frontend integration, usability improvements, debugging, and GitHub-based collaboration.
+Project LIBRA was developed as a project for our Object-Oriented Programming course. It demonstrates the application of object-oriented programming principles and a layered MVC/N-tier architecture in a full-stack library management system.
 
 ## Contributors
 
